@@ -45,10 +45,3 @@ Average number of orders (rounded to two decimal places)
 # How to Run the Application
 node index.js
 
-The results will be displayed in the terminal as follows:
-
-Total sales of the store.
-Month-wise sales totals.
-Most popular item in each month.
-Items generating the most revenue in each month.
-Order statistics (min, max, avg) for the most popular item in each month.
